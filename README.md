@@ -69,6 +69,10 @@ Developed a robust classification model for predicting cardiac disease using mac
 9. **Deployment and Monitoring:**
    Deploy the trained classification model into production, ensuring proper monitoring and maintenance for ongoing performance evaluation and updates.
 
+![image](https://github.com/jtndr26/Cardiovascular_risk/assets/78334379/c057bede-8d85-4203-bbb1-735c062022c3)
+
+
+
 ### Result:
 - After training and evaluating both the K-Nearest Neighbors (KNN) and Random Forest classifiers, the models achieved commendable performance in predicting coronary heart disease (CHD) based on the provided dataset.
 - Both models exhibited high accuracy, precision, recall, and F1-score, indicating their effectiveness in correctly classifying individuals with or without CHD.
